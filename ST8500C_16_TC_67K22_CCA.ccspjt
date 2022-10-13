@@ -1,0 +1,16 @@
+[PROJECT]
+Target=ST8500C_16_TC_67K22_CCA.hex
+Processor_Text=PIC18F67K22
+CCSVersion=5.017
+Compiler=PCH
+[Target Data]
+FileList=ST8500C_16_TC_67K22_CCA.c
+[Directories]
+Include=E:\Program Files\PICC\devices\;E:\Program Files\PICC\drivers\
+[ST8500C_16_TC_67K22_CCA.c]
+Type=4
+[mru-list]
+1=ST8500C_16_TC_67K22_CCA.c
+[Units]
+Count=1
+1=ST8500C_16_TC_67K22_CCA (main)

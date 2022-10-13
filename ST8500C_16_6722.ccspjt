@@ -1,0 +1,16 @@
+[PROJECT]
+Target=ST8500C_16_6722.hex
+Processor_Text=PIC18F6722
+CCSVersion=5.005d
+Compiler=PCH
+[Target Data]
+FileList=ST8500C_16_6722.c
+[Directories]
+Include=E:\Users\Edison\Documents\Microchip\PCWHD5005 Demo\Instalado\PICC\devices\;E:\Users\Edison\Documents\Microchip\PCWHD5005 Demo\Instalado\PICC\drivers\;E:\Users\Edison\Documents\Projetos\ST8500C\;E:\Arquivos de programas\PICC\drivers\
+[ST8500C_16_6722.c]
+Type=4
+[mru-list]
+1=ST8500C_16_6722.c
+[Units]
+Count=1
+1=ST8500C_16_6722 (main)

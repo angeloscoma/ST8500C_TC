@@ -1,0 +1,42 @@
+[PROJECT]
+Target=ST8500C_16_TC_67K22.hex
+Processor_Text=PIC18F67K22
+CCSVersion=5.109
+Compiler=PCH
+[Target Data]
+FileList=ST8500C_16_TC_67K22.c
+[Directories]
+Include=E:\Program Files\PICC\devices\;E:\Program Files\PICC\drivers\;C:\Program Files (x86)\PICC\devices\;C:\Program Files (x86)\PICC\drivers\
+[ST8500C_16_TC_67K22.c]
+Type=4
+[mru-list]
+1=ST8500C_16_TC_67K22.c
+[build\default\production\ST8500C_16_TC_67K22.c]
+Type=4
+[build\default\debug\ST8500C_16_TC_67K22.c]
+Type=4
+
+[fileformats]
+forcecoff=0
+
+[ProjectLog]
+Days=2
+D1=06-05-2022
+D1_L=2
+D1_L1=[59639]Project Opened.
+D1_L2=[61494]Project Closed.
+D2=09-05-2022
+D2_L=5
+D2_L1=[35058]Project Opened.
+D2_L2=[35551]Project Opened.
+D2_L3=[36456]Project Closed.
+D2_L4=[40491]Project Opened.
+D2_L5=[40575]Project Closed.
+
+[Opened Files]
+1=ST8500C_16_TC_67K22.c
+t1=1
+Count=1
+[Units]
+Count=1
+1=ST8500C_16_TC_67K22 (main)
